@@ -1,0 +1,41 @@
+/* This file is linked from index.html, and should include any CSS
+   overrides that you want to apply to your selected reveal.js
+   "white" theme.
+*/
+body:after {
+  content: '@tammmri';
+  opacity: 0.5;
+  font-size: 100%;
+  font-family: "Cantarell", sans-serif;
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+}
+
+.reveal {
+  font-family: "Cantarell", sans-serif !important;
+}
+
+.reveal .hidden {
+  display: none;
+}
+
+.reveal .overview .hidden {
+  display: inherit;
+}
+
+.reveal td, .reveal th {
+  font-size: 200%;
+}
+
+.reveal iframe, .reveal img {
+  border: none !important;
+}
+
+.reveal .fragment .visible {
+  opacity: 0.4 !important;
+}
+
+.reveal .fragment .current-fragment {
+  opacity: 1 !important;
+}

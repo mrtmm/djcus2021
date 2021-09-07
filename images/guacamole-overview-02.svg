@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="24cm" height="32cm" viewBox="639 99 461 621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2; stroke-dasharray: 4; stroke: #000000" x="640" y="100" width="460" height="620" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="870" y="413.881">
+        <tspan x="870" y="413.881"></tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="799.676" y="200" width="48.45" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="823.901" y="234.582">
+        <tspan x="823.901" y="234.582">VNC</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ff0000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="680" y="200" width="48.45" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="704.225" y="234.582">
+        <tspan x="704.225" y="234.582">SSH</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ff0000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="740" y="200" width="49.25" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="764.625" y="234.582">
+        <tspan x="764.625" y="234.582">RDP</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="860" y="200" width="40" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="880" y="234.582">
+        <tspan x="880" y="234.582">...</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ff0000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="680" y="111" width="220" height="89" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="790" y="152.082">
+        <tspan x="790" y="152.082">A random box </tspan>
+        <tspan x="790" y="168.082">somewhere in the cloud</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

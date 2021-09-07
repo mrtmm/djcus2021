@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="24cm" height="32cm" viewBox="639 99 461 621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.2; stroke-dasharray: 4; stroke: #000000" x="640" y="100" width="460" height="620" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="870" y="413.881">
+        <tspan x="870" y="413.881"></tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffff00; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.35099e-37; stroke: #000000" x="660" y="220" width="420" height="138" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="1070" y="292.881">
+        <tspan x="1070" y="292.881"></tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #0000ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.35099e-37; stroke: #000000" x="660" y="380" width="420" height="138" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="1070" y="452.881">
+        <tspan x="1070" y="452.881"></tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ff0000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="680" y="480" width="220" height="89" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="790" y="529.082">
+        <tspan x="790" y="529.082">Guacamole "client"</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="680" y="340" width="220" height="89" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="790" y="389.082">
+        <tspan x="790" y="389.082">Guacamole server (guacd)</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x1="790" y1="475.528" x2="790" y2="434.111"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" points="785,467.764 790,477.764 795,467.764 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" points="795,441.875 790,431.875 785,441.875 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="799.676" y="200" width="48.45" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="823.901" y="234.582">
+        <tspan x="823.901" y="234.582">VNC</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="680" y="200" width="48.45" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="704.225" y="234.582">
+        <tspan x="704.225" y="234.582">SSH</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="740" y="200" width="49.25" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="764.625" y="234.582">
+        <tspan x="764.625" y="234.582">RDP</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="860" y="200" width="40" height="60" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="880" y="234.582">
+        <tspan x="880" y="234.582">...</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 0.52549; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="680" y="111" width="220" height="89" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:Cantarell;font-style:normal;font-weight:normal" x="790" y="152.082">
+        <tspan x="790" y="152.082">A random box </tspan>
+        <tspan x="790" y="168.082">somewhere in the cloud</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="770.436" y1="265.381" x2="781.802" y2="334.588"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="776.628,272.232 770.074,263.174 766.76,273.853 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="775.61,327.737 782.165,336.794 785.478,326.116 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="816.147" y1="265.336" x2="800.942" y2="334.632"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="819.367,273.991 816.627,263.152 809.6,271.848 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="797.722,325.977 800.463,336.816 807.49,328.12 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="859.709" y1="264.832" x2="818.756" y2="335.136"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="860.122,274.058 860.835,262.9 851.481,269.024 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="818.343,325.911 817.63,337.068 826.984,330.944 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:Cantarell;font-style:normal;font-weight:normal" x="860" y="300">
+      <tspan x="860" y="300">Multiple protocols</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:start;font-family:Cantarell;font-style:normal;font-weight:normal" x="860" y="460">
+      <tspan x="860" y="460">One protocol (Guacamole)</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="723.588" y1="264.878" x2="762.569" y2="335.091"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="731.728,269.239 722.503,262.923 722.985,274.093 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="754.429,330.73 763.654,337.046 763.172,325.876 "/>
+    </g>
+  </g>
+</svg>
